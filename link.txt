@@ -1,0 +1,7 @@
+React Hook Form: https://react-hook-form.com/
+
+Yup: https://www.npmjs.com/package/yup
+
+React Bootstrap: https://react-bootstrap.netlify.app/
+
+Github: https://github.com/parthprajapati32/reacthookform
