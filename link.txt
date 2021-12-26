@@ -4,6 +4,8 @@ Yup: https://www.npmjs.com/package/yup
 
 React Bootstrap: https://react-bootstrap.netlify.app/
 
+Chakra UI: https://chakra-ui.com/
+
 Github: https://github.com/parthprajapati32/reacthookform
 
 Follow Me On Social Media
